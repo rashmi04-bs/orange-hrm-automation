@@ -1,1 +1,22 @@
+# Maven
 /target/
+
+# Test reports
+/test-output/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Configuration files containing credentials
+src/test/resources/config.properties
+src/test/resources/configfile.properties
